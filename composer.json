@@ -1,0 +1,8 @@
+{
+    "name": "simple/php-api",
+    "description": "Simple PHP API for buildpack deployment",
+    "type": "project",
+    "require": {
+        "php": "^8.2"
+    }
+}
